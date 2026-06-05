@@ -1,0 +1,4 @@
+Portfolio,Annualized Return,Annualized Volatility,Max Drawdown,Annualized Downside Deviation,99% VaR,99% CVaR,Sharpe Ratio,Sortino Ratio,Ulcer Performance Index
+Current Equal Weight,4.59%,8.40%,-24.69%,7.87%,-5.89%,-8.43%,0.53,0.79,0.52
+Mean Variance Optimization,4.37%,6.36%,-17.65%,5.90%,-4.60%,-6.84%,0.66,1.01,0.72
+Risk Parity 1 over Sigma,3.67%,3.96%,-8.60%,3.46%,-3.05%,-4.00%,0.89,1.51,1.15

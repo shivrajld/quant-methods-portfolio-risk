@@ -1,0 +1,24 @@
+sheet,rows,columns,nonempty_cells,formula_cells
+Data,121,8,726,1
+Factors,123,30,3443,1
+Asset_Stats,122,18,1471,1410
+Histograms,76,3,202,113
+Validation_A1,124,19,1285,1080
+A1,124,25,1125,861
+A1 Rolling Betas,121,5,425,420
+A2,124,15,1039,861
+A3,124,14,906,739
+A4_1,124,17,1157,975
+A5_2factor,124,14,897,735
+A4_2,124,16,1172,983
+A4_3,124,16,1157,975
+A5_3factor,124,15,1039,861
+Project_Page_1,161,8,923,865
+Project_Page_2,30,5,65,0
+Project_Page_3,123,100,4119,1641
+Project_Page_4_MVO,170,72,4402,398
+Project_Page_4_TRC,123,101,4408,1904
+Project_Page_5_RP,182,67,2863,1153
+Project_Page_5_TRC,123,100,4119,1646
+Project_Page_6_MVO,158,8,965,861
+Project_Page_6_RP,156,15,981,864
