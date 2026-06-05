@@ -78,6 +78,4 @@ python scripts/extract_workbook_summary.py
 
 The script prints a sheet level workbook audit and writes `tables/workbook_overview.csv`.
 
-## Notes
 
-This is intentionally kept as an Excel model because the workbook contains the full portfolio construction pipeline and thousands of linked formulas. A Python port would be useful for automation, but the Excel version is the most faithful representation of the original model.
